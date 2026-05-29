@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp7PM\\FirstSolution\\FirstProject\\FirstProject.csproj": {}
+    "C:\\csharp\\CSharp7PM\\FirstSolution\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "C:\\CSharp7PM\\FirstSolution\\FirstProject\\FirstProject.csproj": {
+    "C:\\csharp\\CSharp7PM\\FirstSolution\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp7PM\\FirstSolution\\FirstProject\\FirstProject.csproj",
+        "projectUniqueName": "C:\\csharp\\CSharp7PM\\FirstSolution\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "C:\\CSharp7PM\\FirstSolution\\FirstProject\\FirstProject.csproj",
+        "projectPath": "C:\\csharp\\CSharp7PM\\FirstSolution\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\BP448XJ\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp7PM\\FirstSolution\\FirstProject\\obj\\",
+        "outputPath": "C:\\csharp\\CSharp7PM\\FirstSolution\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
